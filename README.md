@@ -68,7 +68,7 @@ Beberapa contoh ide yang ditulis:
 4. Menciptakan Ide Penerapan di Lingkungan Sekitar
 Langkah ini adalah membayangkan penerapan serupa di daerah lain, supaya lebih aplikatif.
 Contohnya:
-• Di Bandung, buat sistem untuk:
+• Di Garut, Samarang, membuat sistem untuk:
 • Tanaman Stroberi (hama jamur, kutu daun).
 • Tanaman Sayuran (ulat grayak, penyakit fusarium).
 • Tanaman Hias (serangan kutu putih, jamur daun).
